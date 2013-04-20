@@ -1,3 +1,22 @@
-= redmine_my_tickets
+Redmine My Tickets Plugin
+=============================================
 
-Description goes here
+Redmine Plugin to add "My tickets" link to top menu.  Basically a shortcut to My Page->view all issues
+
+
+
+Installation and Setup
+----------------------
+
+* The plugin has not been tested on redmine versions less than 2.1
+
+* Open a shell and cd into your Redmine installation directory
+
+* Install the plugin
+
+        cd plugins
+        git clone https://github.com/BrianMowrey/redmine-my-tickets.git
+
+
+* Restart Redmine
+
